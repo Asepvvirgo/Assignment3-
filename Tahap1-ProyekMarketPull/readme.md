@@ -21,10 +21,13 @@ Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk
 <h4> B.	Aplikasi ini sangat membantumu </h4>
 <p> Kamu bisa bercerita tentang masalah cintamu dan dapat memberi saran kepada orang yang mempunyai masalah. Dan kami menyiapkan beberapa artikel yang berkaitan dengan masalah cinta, psikologis, dan motivasi. Dan kami juga memiliki fitur konsultasi secara premium secara personal. </p>
 1. Ruang Curhat  <br>
-Ruang curhat adalah fitur/layanan gratis yang dibuat untuk kalian yang ingin berbagi permasalahan cinta anda. Disini kalian bebas menceritakan masalah cinta anda tanpa harus khawatir identitas pribadi kalian diketahui orang lain. <br>
+Ruang curhat adalah fitur/layanan gratis yang dibuat untuk kalian yang ingin berbagi permasalahan cinta anda. Disini kalian bebas menceritakan masalah cinta anda tanpa harus khawatir identitas pribadi kalian diketahui orang lain. 
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/HalRuangCurhat.png" width="600px" >
+<br>
 2.	Blog <br>
 Blog untuk menambahkan artikel yang berkaitan dengan masalah cinta, psikologis, dan motivasi. <br>
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/HalBlog.png" width="600px" >
 3.	Konseling <br> 
 Ceritakan semua masalah cintamu dengan aman dan nyaman lewat teks secara personal kepada tim kami yang berpengalaman dan tentunya bisa memahami tanpa menghakimi. 
-
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/HalKonseling.png" width="600px" >
 
