@@ -112,4 +112,5 @@ Responden terbanyak dengan kalkulasi 27 orang menjawab dipoint 4 dan 5 dengan pr
 d.	Apakah ada masukan dari Anda, mengenai fitur apa saja yang perlu kami lengkapi untuk aplikasi tersebut?
 </p> Jawaban dari pertanyaan ini sangat bervariasi dengan memiliki kemiripan dan kedekatan maksud yang hampir sama. Rata-rata jawaban mengarah agar aplikasi ditambahkan fitur cari jodoh. Selain itu ada Sebagian yang lain menganggap fitur yang sudah ada cukup memuaskan. 
 </p>
-
+<br> <br> <br> 
+<h2> Apapun yang terjadi, kita akan melewatinya bersama. </h2>
