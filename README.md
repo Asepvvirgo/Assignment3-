@@ -6,6 +6,8 @@
 * Yafeth AP1313619040
 
 ### Kami memilih Float User 
+<br> <br> 
+###Pengantar 
 
 ### Tahap 1 
 * Diskusikan dan putuskan idenya
@@ -34,7 +36,17 @@ kuesioner lain
 <br>
 -Laporan harus ditulis dengan gaya akademis yang sesuai,
 diekspor dalam PDF. <br>
-- Ini sama dengan menulis bab 1 dari sarjana
+-Ini sama dengan menulis bab 1 dari sarjana
 tesis bagian naratif. <br>
-- Gunakan semua data dari persyaratan fase 1 & 2
+-Gunakan semua data dari persyaratan fase 1 & 2
 pertemuan.
+
+
+## Contributors
+* **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/AlvaroBinAndrew)
+* **Asep Virgo** - Ilmu Komputer UNJ 2019
+* **Yafeth AP** - Ilmu Komputer UNJ 2019 
+
+#### Hak cipta Kelompok G, Ilmu Komputer UNJ Tahun 2019.
+
+
