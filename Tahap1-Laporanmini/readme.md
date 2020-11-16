@@ -44,7 +44,7 @@ Berikut kami lampirkan diagram hasil kuesioner </h5>
 <p>Dari semua data diri yang telah dihimpun melalui kuisioner terdapat 59 responden dengan ditemukan 2 responden melakukan pengisian kuisioner secara berulang yaitu febry sebanyak 2 kali dan jevart sebanyak 3 kali. </p>
 
 <h5> b. Jenis Kelamin </h5>
- <img src=" https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-Laporanmini/Dg_Jenkel.png" >
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-Laporanmini/Dg_Jenkel.png" width="600px" >
  <p> Untuk jenis kelamin responden laki-laki yang mengisi kuisioner berjumlah 26 orang dengan persentase 44,8%. Sedangkan responden yang mengisi kuisioner berjumlah 33 orang dengan persentase 55,2%. </p>
  
  <h5> c. Email </h5> 
