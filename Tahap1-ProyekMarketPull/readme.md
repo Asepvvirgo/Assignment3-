@@ -1,8 +1,9 @@
-<h1 text-align="center"> Curcin by Group-G | Website Curhatan Cinta </h1> 
+<h1> Curcin by Group-G | Website Curhatan Cinta </h1> 
 <h3> Kami berusaha menciptakan dampak untuk masyarakat, Kesehatan mental Indonesia. </h3>
 <br> <br> 
 
 <h4> A.	Memperkenalkan Curcin (Curhatan Cinta) </h4>
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/home1.png" width="600px" >
 <p>Curcin adalah sebuah website yang bertujuan untuk menampung berbagai curhatan mengenai cinta, tidak hanya itu website ini bisa menjadi 
 tempat untuk memberikan pengalaman, pengetahuan, bahkan masalah cinta kalian. Di website Curcin ini kamu bisa bercerita tentang masalah 
 kamu kepada orang lain yang belum kamu kenal. </p>
