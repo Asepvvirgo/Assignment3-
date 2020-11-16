@@ -19,7 +19,7 @@ Ada beberapa web aplikasi yang sudah ada di Indonesia, yaitu :
 </p>
 <h5> 1.	Riliv </h5> 
 <p> Riliv adalah sebuah aplikasi mental terbesar di Indonesia yang berbayar menawarkan layanan konseling dengan psikolog secara online. </p>
-<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-Laporanmini/riliv.png" height=400px >
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-Laporanmini/riliv.png" height="400px" >
 
 <h5> 2.	Bicarakan.id </h5> 
 <p> Bicarakan.id adalah aplikasi berbayar yang menawarkan layanan konseling dengan psikolog secara online dan mempunyai fitur tambahan berupa podcast tentang Kesehatan mental.
