@@ -26,6 +26,6 @@ Ada beberapa web aplikasi yang sudah ada di Indonesia, yaitu :
 Kami menganjurkan agar fitur yang lebih diperlengkap dan tampilan lebih menarik. Contohnya Fitur aplikasi yang lebih lengkap dengan di tambahan Room chat private
 Dengan pertimbangan user yang mengiginkan konsultasi tanpa di ketahui oleh user dan konsultor lain. Dan user tersebut tidak perlu khawatir dengan
 Konsultornya itu karena para konsultor sudah profesional dan terikat dengan prinsip yang di tetapkan oleh aplikasi yaitu kerahasiaan dan privasi user akan di jaga dengan baik karena hal tersebut juga merupakan kenyamanan untuk para user.
- <img src=" https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-Laporanmini/bicarakan.png" width"600px">
+ <img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-Laporanmini/bicarakan.png" width"600px">
 </p>
 
