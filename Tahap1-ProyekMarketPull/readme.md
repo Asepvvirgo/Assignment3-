@@ -3,7 +3,7 @@
 <br> <br> 
 
 <h4> A.	Memperkenalkan Curcin (Curhatan Cinta) </h4>
-<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/home1.png" width="600px" >
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/Desktop-Home.png" width="600px" >
 <p>Curcin adalah sebuah website yang bertujuan untuk menampung berbagai curhatan mengenai cinta, tidak hanya itu website ini bisa menjadi 
 tempat untuk memberikan pengalaman, pengetahuan, bahkan masalah cinta kalian. Di website Curcin ini kamu bisa bercerita tentang masalah 
 kamu kepada orang lain yang belum kamu kenal. </p>
