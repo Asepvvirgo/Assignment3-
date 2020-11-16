@@ -1,4 +1,4 @@
-<h2> Laporan Mini </h2>
+
 <h3> Hasil Observasi dan Kuesioner </h3>
 <br>
  <h3> Observasi </h3> 
