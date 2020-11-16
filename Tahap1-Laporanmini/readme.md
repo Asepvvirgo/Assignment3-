@@ -5,7 +5,7 @@
  <br> <br>
 
 <p> Cinta bukan segalanya, namun cinta terkadang membuat anda stress dan patah hati. Anda perlu  solusi untuk mengatasi masalah tersebut,
-namun tidak mungkin untuk anda mengatasi hal itu sendiri. anda butuh teman/tempat untuk menyelesaikannya. </p>
+namun tidak mungkin bagi anda mengatasi hal itu sendiri. anda butuh teman/tempat untuk menyelesaikannya. </p>
 
 <p> Menurut Mental Health Foundation, keberadaan sahabat bisa menjadi elemen penting dalam melindungi kesehatan mental kita.
 Karena dengan sahabat kita bebas bercerita dan bertukar pikiran.Masalahnya, tak semua orang memilikinya dan tak mudah menemukan orang yang tepat 
