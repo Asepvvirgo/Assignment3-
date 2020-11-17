@@ -22,7 +22,7 @@ Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk
 <br> <br> 
 
 ### Hasil Survei  
-##### [Hasil Observasi dan Kuesioner Full Klick disini](https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/FullMockup.png)
+##### [Hasil Observasi dan Kuesioner Full Klick disini](https://github.com/AlvaroBinAndrew/Assignment3-/tree/main/Tahap1-Laporanmini)
 
 <br>
 <h4> Beberapa Hasil survei yang di terapkan di Web Curcin </h4>
