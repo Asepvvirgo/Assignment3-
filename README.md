@@ -66,20 +66,6 @@ Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Contributors
 * **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/AlvaroBinAndrew)
 * **Asep Virgo** - Ilmu Komputer UNJ 2019
