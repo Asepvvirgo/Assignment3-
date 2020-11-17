@@ -1,46 +1,23 @@
-# Assignment3-
-
-## Kelompok G Beranggotakan:
-* Andrew Alvaro Hazizi 1313619035
-* Asep Virgo 1313619036
-* Yafeth AP1313619040
-
-### Kami memilih Float User 
+# Curcin 
+<h1> Curcin by Group-G | Website Curhatan Cinta </h1> 
+<h3> Kami berusaha menciptakan dampak untuk masyarakat, Kesehatan mental Indonesia. </h3>
 <br> <br> 
-### Pengantar 
 
-### Tahap 1 
-* Diskusikan dan putuskan idenya
-* Melakukan riset pasar melalui kuesioner dan observasi (Float User)
-- Minimal 50 responden di semua demografi
-* Terakhir, rekap kebutuhan pengguna melalui laporan mini (sebuah Halaman Github sudah cukup)
-<br>
-* Portofolio Github
-* Buat Proyek Market Pull Github
-<br>
-*Mockup Design <br>
- - Di sini Anda diberi kebebasan untuk mempresentasikan
-desain sebagai ilustrasi, diagram alur, atau video
-<br>
-
-### Tahap 2
-* Setelah Anda memastikan halaman Github Anda siap
-dirilis untuk umum sebagai penarik pasar
-* Melakukan konferensi dengan pengguna dari fase 1,
-untuk memasarkan Aplikasi Anda secara resmi
-* Akhiri sesi dengan mengundang pengguna untuk mengisi
-kuesioner lain
-<br>
-* Penulisan Laporan <br>
-- Tulis laporan yang merangkum semua temuan Anda.
-<br>
--Laporan harus ditulis dengan gaya akademis yang sesuai,
-diekspor dalam PDF. <br>
--Ini sama dengan menulis bab 1 dari sarjana
-tesis bagian naratif. <br>
--Gunakan semua data dari persyaratan fase 1 & 2
-pertemuan.
-
+<h4> A.	Memperkenalkan Curcin (Curhatan Cinta) </h4>
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/Desktop-Home.png" width="600px" >
+<p>Curcin adalah sebuah website yang bertujuan untuk menampung berbagai curhatan mengenai cinta, tidak hanya itu website ini bisa menjadi 
+tempat untuk memberikan pengalaman, pengetahuan, bahkan masalah cinta kalian. Di website Curcin ini kamu bisa bercerita tentang masalah 
+kamu kepada orang lain yang belum kamu kenal. </p>
+<p>Hal ini lumrah dilakukan karena di era sekarang kita bisa bersosialisasi dengan siapapun dan kapanpun. Apalagi manusia merupakan 
+makhluk sosial yang saling mebutuhkan satu sama lain. Tapi jangan khawatir, kami tidak akan menampilkan data pribadi anda, jadi disaat
+anda berbagi cerita, masalah atau pengalaman. Nickname anda menjadi anonym(tidak menampilkan data pribadi anda), jadi anda bisa curhat atau memberi saran tanpa menampilkan nama asli anda. </p>
+<p> Setiap manusia tentunya memiliki masalah masing-masing. Ada yang terbiasa bercerita tentang masalahnya kepada orang terdekat, namun ada pula yang tidak mau bercerita tentang masalah-masalahnya tersebut. Padahal manfaat curhat sangat baik untuk kesehatan secara keseluruhan. 
+Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk menghadapi masalah tersebut. Oleh karena itu, jangan sesekali kamu menahan beban yang kamu rasakan sendirian karena dapat menyebabkan berbagai masalah kesehatan nantinya. </p>
+<p> Website kami mungkin dapat membantu untuk : </p>
+1. Mengurangi Beban Hidup <br> 
+2.	Sumber kekuatan dan dukungan <br>
+3.	Memperbaiki suasana hati <br>
+4.	Perasaan jadi lebih lega <br>
 
 ## Contributors
 * **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/AlvaroBinAndrew)
