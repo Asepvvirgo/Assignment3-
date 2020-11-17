@@ -19,6 +19,41 @@ Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk
 3.	Memperbaiki suasana hati <br>
 4.	Perasaan jadi lebih lega <br>
 
+
+### Hasil Survei  
+##### [Hasil Observasi dan Kuesioner Full Klick disini](https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/FullMockup.png)
+
+
+#### Beberapa Hasil survei yang di terapkan di Web Curcin 
+
+##### Username Menjadi Anonym 
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-Laporanmini/ks4.png" width="600px" >
+
+##### Apakah ada masukan dari Anda, mengenai fitur apa saja yang perlu kami lengkapi untuk aplikasi tersebut? 
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-Laporanmini/jawab1.png" width="600px" >
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-Laporanmini/jawab2.png" width="600px" >
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-Laporanmini/jawab3.png" width="600px" >
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-Laporanmini/jawab4.png" width="600px" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Tampilan Full Mockup bisa lihat disini : 
 #### [Klick disini](https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/FullMockup.png)
 <br>
