@@ -14,10 +14,33 @@ anda berbagi cerita, masalah atau pengalaman. Nickname anda menjadi anonym(tidak
 <p> Setiap manusia tentunya memiliki masalah masing-masing. Ada yang terbiasa bercerita tentang masalahnya kepada orang terdekat, namun ada pula yang tidak mau bercerita tentang masalah-masalahnya tersebut. Padahal manfaat curhat sangat baik untuk kesehatan secara keseluruhan. 
 Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk menghadapi masalah tersebut. Oleh karena itu, jangan sesekali kamu menahan beban yang kamu rasakan sendirian karena dapat menyebabkan berbagai masalah kesehatan nantinya. </p>
 <p> Website kami mungkin dapat membantu untuk : </p>
-1. Mengurangi Beban Hidup <br> 
+1.  Mengurangi Beban Hidup <br> 
 2.	Sumber kekuatan dan dukungan <br>
 3.	Memperbaiki suasana hati <br>
 4.	Perasaan jadi lebih lega <br>
+
+</h3> Tampilan Full bisa lihat disini [Link Disini](https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/FullMockup.png)
+<h4> Berikut merupakan potongan tampilan website curcin: </h4>
+
+<h5> Tampilan Home </h5> 
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/Desktop-Home.png" width="600px" >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Contributors
 * **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/AlvaroBinAndrew)
