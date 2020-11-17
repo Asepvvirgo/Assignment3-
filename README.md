@@ -62,7 +62,16 @@ Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk
 <p> Ceritakan semua masalah cintamu dengan aman dan nyaman lewat teks secara personal kepada tim kami yang berpengalaman dan tentunya bisa memahami tanpa menghakimi. </p>
 <img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/HalKonseling.png" width="600px" >
 
+<br> <br>
 
+<h3> Fitur yang akan Tersedia </h3> 
+<ul>
+  <li>Blog </li> 
+  <li> Ruang Chat </li>
+  <li> Konseling </li>
+  </ul>
+<br> <br>
+<h3> Bagaimana cara Kerja Web ini ? </h3> 
 
 
 
