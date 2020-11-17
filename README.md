@@ -78,7 +78,7 @@ OR <a href="https://www.figma.com/file/u4k47tNHf7qlGIoi5sF5Uk/HCI-TEAM-G?node-id
 <br> <br>
 
 ## Contributors
-* **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ - [Andrew Alvaro H](https://github.com/AlvaroBinAndrew)
+* **Andrew Alvaro Hazizi** - Ilmu Komputer 2019 UNJ 
 * **Asep Virgo** - Ilmu Komputer UNJ 2019
 * **Yafeth AP** - Ilmu Komputer UNJ 2019 
 
