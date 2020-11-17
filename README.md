@@ -67,7 +67,7 @@ Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk
 <h3> Fitur yang akan Tersedia </h3> 
 <ul>
   <li>Blog </li> 
-  <li> Ruang Chat </li>
+  <li> Ruang Curhat </li>
   <li> Konseling </li>
   </ul>
 <br> <br>
