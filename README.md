@@ -72,7 +72,8 @@ Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk
   </ul>
 <br> <br>
 <h3> Bagaimana Penampilan Web ini ? </h3> 
-<a href="https://www.youtube.com/watch?v=5nr5zVeeDP4" > Klick Video disni </a>
+<a href="https://www.youtube.com/watch?v=5nr5zVeeDP4" > Klick Video disni </a> <br>
+OR <a href="https://www.figma.com/file/u4k47tNHf7qlGIoi5sF5Uk/HCI-TEAM-G?node-id=0%3A1" > Buka di Figma </a>
 
 <br> <br>
 
