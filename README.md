@@ -19,8 +19,9 @@ Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk
 3.	Memperbaiki suasana hati <br>
 4.	Perasaan jadi lebih lega <br>
 
-### Tampilan Full bisa lihat disini : 
-#### [Klick disini](https://news.detik.com/berita/d-4992000/perahu-nelayan-tabrakan-di-luwu-timur-1-warga-pangkep-tewas/2)
+### Tampilan Full Mockup bisa lihat disini : 
+#### [Klick disini](https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/FullMockup.png)
+<br>
 <h4> Berikut merupakan potongan tampilan website curcin: </h4>
 
 <h5> Tampilan Home </h5> 
