@@ -4,7 +4,7 @@
 <br> <br> 
 
 <h4> A.	Memperkenalkan Curcin (Curhatan Cinta) </h4>
-<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/Desktop-Home.png" width="600px" >
+
 <p>Curcin adalah sebuah website yang bertujuan untuk menampung berbagai curhatan mengenai cinta, tidak hanya itu website ini bisa menjadi 
 tempat untuk memberikan pengalaman, pengetahuan, bahkan masalah cinta kalian. Di website Curcin ini kamu bisa bercerita tentang masalah 
 kamu kepada orang lain yang belum kamu kenal. </p>
@@ -19,7 +19,7 @@ Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk
 3.	Memperbaiki suasana hati <br>
 4.	Perasaan jadi lebih lega <br>
 
-</h3> Tampilan Full bisa lihat disini 
+</h3> Tampilan Full bisa lihat disini : </h3>
 #### [Klick disini](https://news.detik.com/berita/d-4992000/perahu-nelayan-tabrakan-di-luwu-timur-1-warga-pangkep-tewas/2)
 <h4> Berikut merupakan potongan tampilan website curcin: </h4>
 
