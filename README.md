@@ -38,29 +38,29 @@ Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Tampilan Full Mockup bisa lihat disini : 
 #### [Klick disini](https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/FullMockup.png)
 <br>
 <h4> Berikut merupakan potongan tampilan website curcin: </h4>
 
 <h5> Tampilan Home </h5> 
+<p> Kumpulan beberapa informasi terkain web Curcin </p>  
 <img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/Desktop-Home.png" width="600px" >
+
+<h5> Tampilan Blog </h5>  
+<p> berisi kumpulan artikel yang berkaitan dengan masalah cinta, psikologis, dan motivasi. </p>
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/HalBlog.png" width="600px" >
+
+<h5> Tampilan Ruang Chat </h5>
+<p> Ruang curhat adalah fitur/layanan gratis yang dibuat untuk kalian yang ingin berbagi permasalahan cinta anda. Disini kalian
+<br> bebas menceritakan masalah cinta anda tanpa harus khawatir identitas pribadi kalian diketahui orang lain. </p>
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/HalRuangCurhat.png" width="600px" >
+
+
+<h5> Tampilan Konseling </h5> 
+<p> Ceritakan semua masalah cintamu dengan aman dan nyaman lewat teks secara personal kepada tim kami yang berpengalaman dan tentunya bisa memahami tanpa menghakimi. </p>
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/HalKonseling.png" width="600px" >
+
 
 
 
