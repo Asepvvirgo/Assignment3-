@@ -63,6 +63,10 @@ Manfaat curhat bagi kondisi psikologis ditandai dengan kembalinya kekuatan untuk
 <img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/HalKonseling.png" width="600px" >
 
 <br> <br>
+<h4> Usecase Diagram </h4>
+<img src="https://github.com/AlvaroBinAndrew/Assignment3-/blob/main/Tahap1-ProyekMarketPull/Usecase%20Diagram.png" width="800px" >
+
+<br> <br>
 
 <h3> Fitur yang akan Tersedia </h3> 
 <ul>
