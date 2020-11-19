@@ -32,6 +32,7 @@ Konsultornya itu karena para konsultor sudah profesional dan terikat dengan prin
 <br> <br>
 
 <h3> Kuesioner </h3> 
+<a href=https://docs.google.com/forms/d/1KeUWKe0Pl0W_jDmiO47NLFoh_mfdKn4k__DmPIhO57A/edit?ts=5faf8d03&gxids=7757#responses> Link Kuesioner </a>
 
 <h4> 1.	Pembuatan dan pengisian kuesioner
 Kuesioner ini kami buat dengan menggunakan google form </h4>
