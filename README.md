@@ -18,6 +18,5 @@
 
 
 
-#### Hak cipta Kelompok G, Ilmu Komputer UNJ Tahun 2019.
 
 
