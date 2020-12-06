@@ -6,7 +6,7 @@
 
 # Curcin | Curhatan Cinta  
 <p> Curcin adalah aplikasi berbasis web yang bertujuan untuk menampung berbagai curhatan cinta.
-  Di website Curcin ini kamu bisa bercerita tentang masalah cintamu kepada orang lain yang belum kamu kenal. </>
+  Di website Curcin ini kamu bisa bercerita tentang masalah cintamu kepada orang lain yang belum kamu kenal. </p>
   
   
 
